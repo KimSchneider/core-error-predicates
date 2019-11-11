@@ -71,7 +71,7 @@ addError("NetworkError", "EADDRINFO", "EADDRNOTAVAIL", "EAFNOSUPPORT",
                         "EISCONN", "EMSGSIZE", "ENETDOWN", "ENETUNREACH",
                         "ENONET", "ENOTCONN", "ENOTSOCK", "ENOTSUP", "EPIPE",
                         "EPROTO",  "EPROTONOSUPPORT", "EPROTOTYPE",
-                        "ETIMEDOUT", "EAIFAMNOSUPPORT", "EAISERVICE",
+                        "ETIMEDOUT", "EAIFAMNOSUPPORT", "EAI_AGAIN", "EAISERVICE",
                         "EAISOCKTYPE", "ESHUTDOWN", "ENOTFOUND");
 
 errors.push({
